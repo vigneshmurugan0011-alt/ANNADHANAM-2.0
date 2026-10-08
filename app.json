@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "annadhanam2",
+    "slug": "annadhanam2",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FF6B35"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FF6B35"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
